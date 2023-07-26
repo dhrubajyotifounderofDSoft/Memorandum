@@ -7,6 +7,8 @@ words = ["quantum computer", "super computer", "personal computer"]
 words.sort()
 sorted_list = sorted(words)
 print(sorted_list)
+time.sleep(10)
+os.system('cls')
 num = 0
 user_input_list = []
 
